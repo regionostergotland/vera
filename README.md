@@ -1,6 +1,27 @@
+# Prototyper för Digital Akutjounal (studentprojekt)
+
+Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland ocj studenter vid Linköpings Universiet
+
+Dokumentation finns i underkatalogen /documentation
+
+Team:
+- Teamledare: Josef Atoui
+- Systemarkitekt: Viktor Bäckman
+- Kvalitetssamordnare: Rachel Homssi
+- Utvecklingsledare: Tommy Johansson
+- Konfigurationsansvarig: Jesper Jonsson
+- Testledare: Felix Lindgren
+- Dokumentansvarig: Johan Runestam 
+- Analysansvarig: Simon Wijk Stranius
+
+Primära kontakter i Region Östergötland under projektet:
+Madeleine Hearthly, Rakeeb Munir, Karin Moscicki och Erik Sundvall
+
+Under hösten 2020 genomförs ett uppföljningsprojekt fokuserat på interaktionsdesign.
+
 # Vera 20
 
-TODO: Add links to documents, present the project members; a new header that includes the technical details; project information
+TODO: Add links to documents; a new header that includes the technical details; project information
 
 To run VERA you must install (assuming a Windows environment)
 
