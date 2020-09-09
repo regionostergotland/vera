@@ -1,10 +1,10 @@
 # Prototyper för Digital Akutjounal (studentprojekt)
 
-Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland och studenter vid Linköpings Universiet
+Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland och studenter vid Linköpings Universiet i kursen TDDD96 Kandidatprojekt i programvaruutveckling - Även kallad "PUM"
 
 Dokumentation finns i underkatalogen /documents
 
-Team:
+Genomfört av Team 6 VT20:
 - Teamledare: Josef Atoui
 - Systemarkitekt: Viktor Bäckman
 - Kvalitetssamordnare: Rachel Homssi
