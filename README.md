@@ -1,8 +1,8 @@
 # Prototyper för Digital Akutjounal (studentprojekt)
 
-Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland ocj studenter vid Linköpings Universiet
+Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland och studenter vid Linköpings Universiet
 
-Dokumentation finns i underkatalogen /documentation
+Dokumentation finns i underkatalogen /documents
 
 Team:
 - Teamledare: Josef Atoui
