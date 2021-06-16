@@ -4,7 +4,10 @@ Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland och stud
 
 Dokumentation finns i underkatalogen [/documents](https://github.com/regionostergotland/vera/tree/master/documents)
 
-Designfiler gjorda med https://www.figma.com/ finns i underkatalogen [/figma](https://github.com/regionostergotland/vera/tree/master/figma)
+Designfiler gjorda med https://www.figma.com/ finns i underkatalogen [/figma](https://github.com/regionostergotland/vera/tree/master/figma) men kan även nås online från... 
+https://www.figma.com/proto/Kvywp2MSW73a1nPkVwu8zG/Digital-Akutjournal?node-id=578%3A68136&scaling=min-zoom 
+...eller i editor-vy...
+https://www.figma.com/file/Kvywp2MSW73a1nPkVwu8zG/Digital-Akutjournal?node-id=578%3A68136 )
 
 Genomfört av Team 6 VT20:
 - Teamledare: Josef Atoui
