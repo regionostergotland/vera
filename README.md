@@ -2,7 +2,9 @@
 
 Projekt genomfört Våren 2020 i samarbete mellan Region Östergötland och studenter vid Linköpings Universiet i kursen TDDD96 Kandidatprojekt i programvaruutveckling - Även kallad "PUM"
 
-Dokumentation finns i underkatalogen /documents
+Dokumentation finns i underkatalogen [/documents](https://github.com/regionostergotland/vera/tree/master/documents)
+
+Designfiler gjorda med https://www.figma.com/ finns i underkatalogen [/figma](https://github.com/regionostergotland/vera/tree/master/figma)
 
 Genomfört av Team 6 VT20:
 - Teamledare: Josef Atoui
